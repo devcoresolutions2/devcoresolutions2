@@ -8,192 +8,100 @@
 
 <br/><br/>
 
-<a href="mailto:dev.core.solution2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Us-0B5FFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/company/devcoresolutions2"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.facebook.com/devcoresolutionsofficial"><img src="https://img.shields.io/badge/Facebook-Like-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.instagram.com/devcoresolutionsofficial/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://x.com/DevCoreSolution"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://www.youtube.com/@DevCoreSolutionsOfficial"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://www.reddit.com/user/DevCoreSolutions2/"><img src="https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06113C,50:0B5FFF,100:00C6FF&height=240&section=header&text=DevCore%20Solutions&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Architecting%20Scalable%20Web%20Platforms%20%26%20AI-Powered%20Software&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="DevCore Solutions Banner" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=0B5FFF&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Engineering+Agency;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;Production+AI+Workflows+%26+LLM+Integrations;From+Zero-to-One+MVPs+to+Enterprise+Scale" alt="DevCore Solutions Tagline" />
+</a>
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Contact_Us-dev.core.solution2%40gmail.com-0B5FFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.core.solution2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/devcoresolutions2)
+[![X](https://img.shields.io/badge/X-0F1419?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DevCoreSolution)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevCoreSolutionsOfficial)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/devcoresolutionsofficial)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devcoresolutionsofficial/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/DevCoreSolutions2/)
 
 </div>
 
-<br/>
+---
 
-## ✦ About Us
+## 🏛️ Who We Are
 
-**DevCore Solutions** is a full-stack software agency based in **Chattogram, Bangladesh**. We turn complex ideas into fast, secure, and scalable web applications, from the first wireframe to production deployment and beyond.
+**DevCore Solutions** is a full-stack software engineering agency headquartered in **Chattogram, Bangladesh**, partnering with founders, startups, and growing enterprises worldwide. We architect, build, and scale resilient web applications—taking complex business logic from initial system design to production deployment.
 
-We pair modern engineering practices with clean design and practical AI to help startups, businesses, and entrepreneurs launch products that last.
+> **Our Engineering Philosophy:** Ship clean, maintainable architecture fast—pairing battle-tested web technologies with practical AI to create measurable competitive advantage.
 
-> **Our Mission:** Build reliable, high-performance software that gives our clients a real competitive edge.
+---
 
-<br/>
-
-## ✦ What We Do
+## 🛠️ Core Capabilities
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
 
-#### 🌐 Web Applications
-Production-grade SaaS platforms, dashboards, portals, and marketplaces built on modern frameworks.
+### 🌐 Full-Stack Web Platforms
+Production-grade SaaS applications, multi-tenant dashboards, client portals, and high-throughput marketplaces engineered for reliability.
 
-    </td>
-    <td width="33%" valign="top">
+### 🎨 UI/UX & Design Systems
+Accessible, conversion-focused interfaces built with component-driven design systems that stay consistent across desktop and mobile.
 
-#### 🎨 UI/UX & Frontend
-Responsive, accessible, pixel-perfect interfaces that look great on every device and convert visitors into customers.
-
-    </td>
-    <td width="33%" valign="top">
-
-#### 🛒 E-Commerce & Business
-Scalable storefronts, booking systems, and management tools tailored to your workflow.
+### 🛒 Commerce & Operations Software
+Custom storefronts, booking engines, inventory systems, and internal tooling tailored directly to your operational workflows.
 
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
 
-#### 🤖 AI Integrations
-Chatbots, automation, content generation, and intelligent workflows added to your product.
+### 🤖 Applied AI & Automation
+Production LLM integrations, RAG knowledge assistants, automated document pipelines, and intelligent workflow orchestration.
 
-    </td>
-    <td width="33%" valign="top">
+### 🗄️ Backend Architecture & APIs
+Type-safe REST/RPC APIs, role-based authentication, Stripe/payment gateways, third-party webhooks, and normalized PostgreSQL schemas.
 
-#### 🗄️ Backend & APIs
-Secure REST APIs, authentication, payment and third-party integrations, and well-structured PostgreSQL databases.
-
-    </td>
-    <td width="33%" valign="top">
-
-#### ☁️ Deployment & Support
-CI/CD pipelines, cloud deployment, performance tuning, and ongoing maintenance so your product stays fast and online.
+### ☁️ Cloud, DevOps & Reliability
+Automated CI/CD pipelines, containerized Docker deployments, caching strategies, Core Web Vitals optimization, and SLA-backed support.
 
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-## ✦ Tech Stack
+## ⚡ Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,express,postgres,prisma,redis,git,github,docker,vercel,netlify,figma,vscode&perline=10" alt="Tech Stack" />
+**Frontend & Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,figma" alt="Frontend Stack" />
+
+<br/><br/>
+
+**Backend, Data & AI**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,redis,graphql,py" alt="Backend Stack" />
+
+<br/><br/>
+
+**Infrastructure & Workflow**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,vercel,netlify,aws,git,github,githubactions" alt="DevOps Stack" />
 
 </div>
 
-<br/>
+---
 
-| Layer | Technologies |
-|:------|:-------------|
-| **Frontend** | Next.js · React · TypeScript · Tailwind CSS |
-| **Backend** | Node.js · REST APIs · Server Actions |
-| **Database** | PostgreSQL · Prisma ORM |
-| **AI** | LLM APIs · Automation · Smart Integrations |
-| **Deployment** | Vercel · Netlify · Docker · CI/CD |
-
-<br/>
-
-## ✦ How We Work
+## 🧭 Delivery Lifecycle
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0B5FFF', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#06113C', 'lineColor': '#0B5FFF', 'secondaryColor': '#EBF3FF', 'tertiaryColor': '#f4f7fb'}}}%%
 flowchart LR
-    A[💬 Discover] --> B[📐 Plan & Design]
-    B --> C[⚙️ Build]
-    C --> D[🧪 Test & Review]
-    D --> E[🚀 Launch]
-    E --> F[🛟 Support & Scale]
-```
-
-| Step | What Happens |
-|:----:|:-------------|
-| **01 · Discover** | We learn your goals, users, and requirements. |
-| **02 · Plan & Design** | Architecture, wireframes, and a clear roadmap. |
-| **03 · Build** | Agile development with regular progress updates. |
-| **04 · Test & Review** | Quality checks, performance, and security review. |
-| **05 · Launch** | Smooth deployment to production. |
-| **06 · Support & Scale** | Monitoring, maintenance, and new features as you grow. |
-
-<br/>
-
-## ✦ Why DevCore?
-
-| | |
-|:--|:--|
-| ⚡ **Modern Stack** | Next.js, TypeScript, and PostgreSQL for speed and long-term maintainability. |
-| 🧱 **Clean, Scalable Code** | Built to grow with your business. |
-| 🤖 **AI-Ready** | Practical AI features integrated where they add real value. |
-| 🔍 **Transparent Communication** | Clear timelines, honest updates, no surprises. |
-| 🎯 **End-to-End Delivery** | Design, development, deployment, and support under one roof. |
-| 🤝 **Client-First Mindset** | Your success is our success. |
-
-<br/>
-
-## ✦ Engagement Models
-
-| Model | Best For |
-|:------|:---------|
-| **Fixed-Price Project** | Well-defined scope with a clear deliverable |
-| **Dedicated Developer(s)** | Long-term products needing ongoing development |
-| **Hourly / Flexible** | Evolving requirements and quick support |
-| **MVP Package** | Startups launching their first version fast |
-
-<br/>
-
-## ✦ Let's Build Something Great Together
-
-Have a project in mind? We'd love to hear about it.
-
-<div align="center">
-
-<a href="mailto:dev.core.solution2@gmail.com?subject=Project%20Inquiry%20-%20DevCore%20Solutions"><img src="https://img.shields.io/badge/📩_Get_a_Free_Consultation-0B5FFF?style=for-the-badge" alt="Get a Free Consultation" /></a>
-
-<br/><br/>
-
-| | Contact |
-|:--:|:--|
-| 📧 **Email** | [dev.core.solution2@gmail.com](mailto:dev.core.solution2@gmail.com) |
-| 📱 **Phone / WhatsApp** | [+880 1766-140126](tel:+8801766140126) |
-| 📍 **Location** | Chattogram, Bangladesh |
-
-</div>
-
-<br/>
-
-## ✦ Find Us Online
-
-<div align="center">
-
-| Platform | Link |
-|:--------:|:-----|
-| 💼 **LinkedIn** | [linkedin.com/company/devcoresolutions2](https://www.linkedin.com/company/devcoresolutions2) |
-| 📘 **Facebook** | [facebook.com/devcoresolutionsofficial](https://www.facebook.com/devcoresolutionsofficial) |
-| 📸 **Instagram** | [instagram.com/devcoresolutionsofficial](https://www.instagram.com/devcoresolutionsofficial/) |
-| 🐦 **X (Twitter)** | [@DevCoreSolution](https://x.com/DevCoreSolution) |
-| ▶️ **YouTube** | [@DevCoreSolutionsOfficial](https://www.youtube.com/@DevCoreSolutionsOfficial) |
-| 👽 **Reddit** | [u/DevCoreSolutions2](https://www.reddit.com/user/DevCoreSolutions2/) |
-| ✉️ **Email** | [dev.core.solution2@gmail.com](mailto:dev.core.solution2@gmail.com) |
-
-<br/>
-
-<a href="https://www.linkedin.com/company/devcoresolutions2"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.facebook.com/devcoresolutionsofficial"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.instagram.com/devcoresolutionsofficial/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://x.com/DevCoreSolution"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://www.youtube.com/@DevCoreSolutionsOfficial"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://www.reddit.com/user/DevCoreSolutions2/"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /></a>
-<a href="mailto:dev.core.solution2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=devcoresolutions2&label=Profile%20Views&color=0B5FFF&style=for-the-badge" alt="Profile Views" />
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C6FF,50:0B5FFF,100:050B1F&height=120&section=footer" width="100%" alt="Footer" />
-
-**© 2026 DevCore Solutions. All rights reserved.**
-*Built with ❤️ in Chattogram, Bangladesh*
-
-</div>
+    A["01 · Discovery"] --> B["02 · Architecture"]
+    B --> C["03 · Agile Sprints"]
+    C --> D["04 · QA & Security"]
+    D --> E["05 · Production Launch"]
+    E --> F["06 · Scale & SLA"]
