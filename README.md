@@ -140,6 +140,26 @@ flowchart LR
 
 <br/>
 
+<h2 align="center" id="architecture">✦ Modern Architecture ✦</h2>
+
+<p align="center">A typical DevCore product, from browser to database.</p>
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    U[👤 Users] --> F[🖥️ Next.js + React<br/>Tailwind UI]
+    F --> A[⚙️ Node.js APIs<br/>Server Actions]
+    A --> D[(🗄️ PostgreSQL<br/>Prisma ORM)]
+    A --> I[🤖 AI / LLM APIs]
+    A --> P[💳 Payments &<br/>3rd-party Services]
+    F --> V[☁️ Vercel / Docker<br/>CI/CD]
+```
+
+</div>
+
+<br/>
+
 <h2 align="center" id="why">✦ Why DevCore? ✦</h2>
 
 <table align="center" width="100%">
@@ -175,6 +195,43 @@ flowchart LR
 
 <br/>
 
+<h2 align="center" id="industries">✦ Who We Build For ✦</h2>
+
+<table align="center" width="100%">
+<tr>
+<td width="25%" valign="top" align="center">
+<h3>🚀 Startups</h3>
+<p>MVPs and first versions shipped fast.</p>
+</td>
+<td width="25%" valign="top" align="center">
+<h3>🏢 Businesses</h3>
+<p>Internal tools, portals, and dashboards.</p>
+</td>
+<td width="25%" valign="top" align="center">
+<h3>🛍️ Online Sellers</h3>
+<p>Storefronts, bookings, and order systems.</p>
+</td>
+<td width="25%" valign="top" align="center">
+<h3>💡 Entrepreneurs</h3>
+<p>Ideas turned into real, launch-ready products.</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h2 align="center" id="values">✦ Our Principles ✦</h2>
+
+<div align="center">
+
+| 🔒 Security First | ⚡ Performance Driven | ♿ Accessible by Design | 📈 Built to Scale |
+|:-----------------:|:---------------------:|:----------------------:|:-----------------:|
+| Auth, validation, and safe defaults in every build | Fast loads and optimized rendering | Interfaces everyone can use | Architecture that grows with you |
+
+</div>
+
+<br/>
+
 <h2 align="center" id="engagement">✦ Engagement Models ✦</h2>
 
 <table align="center" width="100%">
@@ -204,20 +261,21 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=devcoresolutions2&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+<a href="https://github.com/devcoresolutions2?tab=followers"><img src="https://img.shields.io/github/followers/devcoresolutions2?style=for-the-badge&logo=github&label=Followers&color=0B5FFF&labelColor=050B1F" alt="Followers" /></a>
+<a href="https://github.com/devcoresolutions2/devcoresolutions2/commits/main"><img src="https://img.shields.io/github/last-commit/devcoresolutions2/devcoresolutions2?style=for-the-badge&logo=git&logoColor=white&label=Last%20Update&color=00C6FF&labelColor=050B1F" alt="Last Update" /></a>
+<a href="https://github.com/devcoresolutions2"><img src="https://img.shields.io/badge/GitHub-devcoresolutions2-0B5FFF?style=for-the-badge&logo=github&logoColor=white&labelColor=050B1F" alt="GitHub Profile" /></a>
 
 <br/><br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devcoresolutions2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=0B5FFF&text_color=C9D1D9" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcoresolutions2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=C9D1D9" alt="Top Languages" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=devcoresolutions2&theme=tokyonight&hide_border=true&background=0D1117&ring=0B5FFF&fire=00C6FF&currStreakLabel=00C6FF" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devcoresolutions2&bg_color=0D1117&color=00C6FF&line=0B5FFF&point=FFFFFF&area=true&area_color=0B5FFF&hide_border=true" width="100%" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devcoresolutions2/devcoresolutions2/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devcoresolutions2/devcoresolutions2/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/devcoresolutions2/devcoresolutions2/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -262,6 +320,22 @@ Primarily Next.js, React, TypeScript, Tailwind CSS, Node.js, PostgreSQL, and Pri
 
 <br/>
 
+<h2 align="center" id="brief">✦ Start Your Project in 2 Minutes ✦</h2>
+
+<p align="center">Send us a short brief with the points below and we'll reply with next steps.</p>
+
+<div align="center">
+
+| 1 | 2 | 3 | 4 |
+|:-:|:-:|:-:|:-:|
+| **Your idea**<br/>What are you building? | **Your users**<br/>Who is it for? | **Key features**<br/>What must it do? | **Timeline & budget**<br/>When and how much? |
+
+<a href="mailto:dev.core.solution2@gmail.com?subject=Project%20Brief%20-%20DevCore%20Solutions&body=Name%3A%0ACompany%3A%0A%0AProject%20idea%3A%0ATarget%20users%3A%0AKey%20features%3A%0AReference%20websites%3A%0ATimeline%20%26%20budget%3A"><img src="https://img.shields.io/badge/📝_Send_a_Project_Brief-00C6FF?style=for-the-badge&labelColor=0A1F5C" alt="Send a Project Brief" /></a>
+
+</div>
+
+<br/>
+
 <h2 align="center" id="contact">✦ Let's Build Something Great Together ✦</h2>
 
 <p align="center">Have a project in mind? We'd love to hear about it.</p>
@@ -294,6 +368,10 @@ Primarily Next.js, React, TypeScript, Tailwind CSS, Node.js, PostgreSQL, and Pri
 <a href="https://www.youtube.com/@DevCoreSolutionsOfficial"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://www.reddit.com/user/DevCoreSolutions2/"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /></a>
 <a href="mailto:dev.core.solution2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+<br/><br/>
+
+<a href="#about"><b>⬆ Back to top</b></a>
 
 <br/><br/>
 
